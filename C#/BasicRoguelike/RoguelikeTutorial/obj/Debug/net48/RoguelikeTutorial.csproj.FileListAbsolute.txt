@@ -1,0 +1,6 @@
+C:\Users\paper\Desktop\Coding\Projects\Tutorials\C#\BasicRoguelike\RoguelikeTutorial\obj\Debug\net48\RoguelikeTutorial.csproj.AssemblyReference.cache
+C:\Users\paper\Desktop\Coding\Projects\Tutorials\C#\BasicRoguelike\RoguelikeTutorial\obj\Debug\net48\RoguelikeTutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\paper\Desktop\Coding\Projects\Tutorials\C#\BasicRoguelike\RoguelikeTutorial\obj\Debug\net48\RoguelikeTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paper\Desktop\Coding\Projects\Tutorials\C#\BasicRoguelike\RoguelikeTutorial\obj\Debug\net48\RoguelikeTutorial.AssemblyInfoInputs.cache
+C:\Users\paper\Desktop\Coding\Projects\Tutorials\C#\BasicRoguelike\RoguelikeTutorial\obj\Debug\net48\RoguelikeTutorial.AssemblyInfo.cs
+C:\Users\paper\Desktop\Coding\Projects\Tutorials\C#\BasicRoguelike\RoguelikeTutorial\obj\Debug\net48\RoguelikeTutorial.csproj.CoreCompileInputs.cache
